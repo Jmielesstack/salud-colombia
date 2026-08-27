@@ -7,8 +7,6 @@ Orden de la página:
 4. Galería automática con las 3 fotografías
 5. Documento sin título (1).pdf - Financiamiento en la salud
 
-Se IGNORA el archivo "RUIS y Afiliados al SGSSS(1).pdf".
-
 Para probar:
 - Abrir index.html con Live Server en Visual Studio Code.
 
